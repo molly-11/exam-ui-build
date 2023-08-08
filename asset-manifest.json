@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exam-ui-build/static/css/main.16bd93a7.css",
+    "main.js": "/exam-ui-build/static/js/main.db38f305.js",
+    "static/js/787.8977f83d.chunk.js": "/exam-ui-build/static/js/787.8977f83d.chunk.js",
+    "index.html": "/exam-ui-build/index.html",
+    "main.16bd93a7.css.map": "/exam-ui-build/static/css/main.16bd93a7.css.map",
+    "main.db38f305.js.map": "/exam-ui-build/static/js/main.db38f305.js.map",
+    "787.8977f83d.chunk.js.map": "/exam-ui-build/static/js/787.8977f83d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16bd93a7.css",
+    "static/js/main.db38f305.js"
+  ]
+}
